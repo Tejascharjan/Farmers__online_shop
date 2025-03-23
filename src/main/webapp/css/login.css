@@ -1,0 +1,56 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+
+.container{
+	background: url(../img/back.jpg);
+	background-repeat: repeat;
+	background-size: auto;
+	background-repeat: no-repeat;
+	background-size: cover;
+	width:100%;
+	height:100vh;
+}
+h1{
+	text-align:center;
+	color:red;
+}
+
+.input_field{
+	display: block;
+	font-size: 16px;
+	position:sticky;
+	width: 280px;
+	height: 26px;
+	border-radius: 10px;
+	margin: 15px;
+
+}
+.btn{
+	margin: auto;
+	width: 170px;
+	height: 35px;
+	border-radius: 23px;
+	background-color: darkmagenta;
+	font-weight: bold;
+	font-size: 19px;
+	align-items: center;
+	display: flex;
+}
+.login{
+	display: grid;
+	width: 330px;
+	height: auto;
+	background-color: #d3d3d34f;
+	position: absolute;
+	margin: 100px 100px;
+	border-radius: 20px;
+}
+h5{
+	text-align:center;
+	margin:15px;
+}
+
+
+
